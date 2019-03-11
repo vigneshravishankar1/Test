@@ -1,7 +1,7 @@
 ----------------------
 Command Line Arguments
 ----------------------
-
+Example1: ###############3 ###################
 Example:  ./word-count -b -sort SelectionSort -suf < textfile
 
 -b | -a | -s
